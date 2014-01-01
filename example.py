@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from pyMetascanAPI import pyMetascanAPI
 import os
 
